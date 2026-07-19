@@ -127,4 +127,4 @@ function tenHam() {
 ```
 
 > **return:** trả kết quả ra ngoài function để phần code khác có thể tiếp tục sử dụng.
-> **console.log:** hiển thị giá trị ra Console để người lập trình nhìn thấy.
+> **console.log:** hiển thị giá trị ra Console để người lập trình nhìn thấy..
